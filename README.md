@@ -1,4 +1,4 @@
-# JS Demo Projects
+# Korona Evden Çalışma Anketi Projesi
 
 Bu repoda her proje için ayrı bir branch oluşturulmuştur. Aşağıda listelenmiştir:
 
